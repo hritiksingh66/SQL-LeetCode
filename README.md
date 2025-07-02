@@ -68,7 +68,7 @@ While this repository is mainly for personal learning, feel free to:
 Feel free to connect or reach out:
 
 - 📧 Email: hritiksinghrajput05162@gmail.com
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hritik-kumar-y2026)
+- 🌐 LinkedIn: [linkedin.com/in/hritik-kumar-y2026](https://www.linkedin.com/in/hritik-kumar-y2026)
 
 ---
 
